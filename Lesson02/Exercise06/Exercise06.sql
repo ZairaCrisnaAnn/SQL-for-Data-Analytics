@@ -1,4 +1,4 @@
-SELECT username
+SELECT Kristine
 FROM salespeople
 WHERE gender= 'Female'
 ORDER BY hire_date
